@@ -2266,6 +2266,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -2357,6 +2359,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -5794,6 +5798,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -5959,6 +5965,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -6120,6 +6128,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -6278,6 +6288,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -6432,6 +6444,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -6784,6 +6798,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -7141,6 +7157,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -7496,6 +7514,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -7848,6 +7868,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -8141,6 +8163,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [],
@@ -8476,6 +8500,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [],
@@ -8713,6 +8739,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
+          "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -9068,6 +9096,7 @@
       "data": {
         "conflicts": [
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -9235,8 +9264,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -9403,8 +9432,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -9570,8 +9599,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -9737,8 +9766,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -9904,8 +9933,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -10066,8 +10095,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -10223,8 +10252,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -10380,8 +10409,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -10537,8 +10566,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -10693,8 +10722,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -10848,8 +10877,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -11004,8 +11033,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
@@ -11161,8 +11190,8 @@
       "bypassLimit": false,
       "data": {
         "conflicts": [
-          "physicallyadept",
           "magicallygifted",
+          "physicallyadept",
           "Other magic and melee classes"
         ],
         "stats": [
