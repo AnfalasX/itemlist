@@ -7891,7 +7891,7 @@
       "name": "golemancer"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -19077,7 +19077,7 @@
       "name": "starseeker"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
