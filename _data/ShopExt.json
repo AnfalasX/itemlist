@@ -3966,8 +3966,8 @@
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
-      "name": "human",
-      "price": 2917
+      "name": "Human",
+      "price": 2800
     },
     {
       "data": {
@@ -3988,9 +3988,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
-      "enabled": false,
-      "name": "human",
-      "price": 2917
+      "enabled": true,
+      "name": "Human...?",
+      "price": 3000
     },
     {
       "data": {
@@ -4045,7 +4045,7 @@
           "+10% Mech work speed offset",
           "+100% Vacuum resistance"
         ],
-        "mod": "Unknown",
+        "mod": "Milira",
         "karmaType": null
       },
       "description": "An ancient species that soars through the skies, the elves of the heavens, known as Milira. Characterized by their pure white wings and the diverse auras that crown their heads, they are often mistaken for angels and have been worshipped by many humans.\n\n      In the distant past, the Milira were strong and warlike. They seemed to be born for battle, relying on their innate combat instincts and superior physical capabilities. They excelled at using swift and fierce close combat, as well as devastating spells to shatter their enemies, thus dominating their realm.\n      \n      However, after vanquishing all their formidable foes, the Milira gradually lost the meaning of battle. The race needed to find a new purpose for existence. But with their exceedingly long lifespans, the Milira's interest in anything could be worn away by the passage of time, leaving only the unfathomable sea of knowledge that continually drew them to explore.\n      \n      Gradually, the Milira ceased to yearn for battle and began to pursue knowledge. They collected languages and texts from various races, observed every corner of the world; built floating cities, and established libraries to store their accumulating wisdom. Over time, the combat skills of the Milira were buried deep in the collective memory, covered by layer upon layer of fertile soil called knowledge.\n      \n      The Milira had a long period of friendly relations with humans and occasionally guided them in the development of science and technology. However, after a certain incident, the Milira became enemies with humans, and the clouds of war gradually enveloped everyone. A conflict seemed inevitable...",
@@ -4054,5 +4054,54 @@
       "name": "Milira",
       "price": 9167
     }
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+10.00 Mass",
+          "+0% Flammability",
+          "+$3500 Market value",
+          "+4.60 Move speed",
+          "+22% Mental break threshold",
+          "+25.0C Max comfortable temperature",
+          "-5.0C Min comfortable temperature",
+          "+108% Immunity gain speed",
+          "+10 Honor value",
+          "-10% Global learning factor",
+        ],
+        "mod": "Fantasy Races",
+        "karmaType": null
+      },
+      "description": "Genetically engineered catgirls, possessing feline attributes, beauty, and remarkable social aptitude. While great companions for some, others find their lack of intelligence and physical strength off-putting.",
+      "defName": "EFR_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+52.00 Mass",
+          "+0% Flammability",
+          "+$3500 Market value",
+          "+4.60 Move speed",
+          "+22% Mental break threshold",
+          "+25.0C Max comfortable temperature",
+          "-5.0C Min comfortable temperature",
+          "+108% Immunity gain speed",
+          "+10 Honor value",
+          "-10% Global learning factor",
+        ],
+        "mod": "Fantasy Races",
+        "karmaType": null
+      },
+      "description": "A mythical race of humanoid creatures, succubi are demonic yet attractive humanoids of legend. Succubi are socially adept and thrive in darkness, but suffer in the light.",
+      "defName": "EFR_Succubus",
+      "enabled": true,
+      "name": "Succubus",
+      "price": 5000
+    },
   ]
+
 }
