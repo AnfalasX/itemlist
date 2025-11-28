@@ -4053,7 +4053,7 @@
       "enabled": true,
       "name": "Milira",
       "price": 9167
-    }
+    },
     {
       "data": {
         "customName": false,
@@ -4104,5 +4104,6 @@
   ]
 
 }
+
 
 
