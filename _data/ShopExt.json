@@ -4067,7 +4067,7 @@
           "-5.0C Min comfortable temperature",
           "+108% Immunity gain speed",
           "+10 Honor value",
-          "-10% Global learning factor",
+          "-10% Global learning factor"
         ],
         "mod": "Fantasy Races",
         "karmaType": null
@@ -4084,14 +4084,13 @@
         "stats": [
           "+52.00 Mass",
           "+0% Flammability",
-          "+$3500 Market value",
+          "+$5000 Market value",
           "+4.60 Move speed",
           "+22% Mental break threshold",
           "+25.0C Max comfortable temperature",
           "-5.0C Min comfortable temperature",
           "+108% Immunity gain speed",
-          "+10 Honor value",
-          "-10% Global learning factor",
+          "+10 Honor value"
         ],
         "mod": "Fantasy Races",
         "karmaType": null
@@ -4105,4 +4104,5 @@
   ]
 
 }
+
 
